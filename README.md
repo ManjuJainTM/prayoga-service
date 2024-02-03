@@ -1,2 +1,2 @@
-# MicorServices-CRM
-learning backend API in node js and express js
+# prayoga-service
+learning backend API in python using Django
